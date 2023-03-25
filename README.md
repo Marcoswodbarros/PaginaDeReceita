@@ -1,4 +1,4 @@
-# Landing Pages - Página de receita
+# Rocketseat Challenge - Página de receita
 
 This is my third challenge from the Rocketseat.
 
@@ -38,6 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Marcoswodbarros/PaginaDeReceita.git]
+- Deploy: [https://marcoswodbarros.github.io/PaginaDeReceita/]
 
 
 ## My process
